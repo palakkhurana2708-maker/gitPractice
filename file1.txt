@@ -1,1 +1,3 @@
 Hello this is a test git repository for git practice. this is a useless file
+
+now i have push the code to github.
